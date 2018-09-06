@@ -15,4 +15,4 @@
 	iPhone6S.printInfo();
 	galaxyS8.printInfo();
 	onePlusOne.printInfo();
-})();
+});();
